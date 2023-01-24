@@ -16,7 +16,7 @@
    
 <h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px"> Currently vibing with kanha's song ✨ </h1>
 
-[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Anonymous Spotify" width="75%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt=" Spotify" width="75%" />](https://open.spotify.com/playlist/4iGUVI5dcgcHIaibZfZmPi?si=59104526eb3d4d89)
 </p>
 
 <h1> <img src="https://te.legra.ph/file/1f5f400d5a16ae3a89343.jpg" width="70px" style="border-radius: 50%"> Contact me  </h1>
