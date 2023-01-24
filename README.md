@@ -4,6 +4,6 @@
 
 <p align="center">
    
- -->    <gif align="middle" src="https://te.legra.ph/file/117931bd124bd2dce84fb.mp4" />
+ -->    <img align="middle" src="https://te.legra.ph/file/366d4df0d67c138dcd729.png" />
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
