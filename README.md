@@ -8,7 +8,7 @@
    
    
    
- -->    <img align="middle" src="https://github.com/givemehope07/givemehope07/blob/64c958c831506c4c7c83c87cd6476663af5d7366/Rachna/rachna.gif" />
+ -->    <img align="middle" src="https://te.legra.ph/file/366d4df0d67c138dcd729.png" />
    
    
    
@@ -18,6 +18,8 @@
 
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt=" Spotify" width="75%" />](https://open.spotify.com/playlist/4iGUVI5dcgcHIaibZfZmPi?si=59104526eb3d4d89)
 </p>
+
+    <img align="middle" src="https://github.com/givemehope07/givemehope07/blob/64c958c831506c4c7c83c87cd6476663af5d7366/Rachna/rachna.gif" />
 
 <h1> <img src="https://te.legra.ph/file/1f5f400d5a16ae3a89343.jpg" width="70px" style="border-radius: 50%"> Contact me  </h1>
 
