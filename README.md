@@ -16,7 +16,13 @@
    
 <h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px"> Currently vibing with kanha's song ✨ </h1>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt=" Spotify" width="75%" />](https://open.spotify.com/playlist/4iGUVI5dcgcHIaibZfZmPi?si=59104526eb3d4d89)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <h1> -->  <img align="middle" src="https://github.com/givemehope07/givemehope07/blob/64c958c831506c4c7c83c87cd6476663af5d7366/Rachna/rachna.gif" />
 
